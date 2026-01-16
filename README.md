@@ -70,7 +70,7 @@ This project uses **mock authentication** and **SampleData** to simulate real-wo
 - **SampleData** (data persistence)
 
 
-## ▶️ Steps to Run the Project Locally
+## Steps to Run the Project Locally
 
 ### 1️⃣ Prerequisites
 Make sure you have the following installed:
@@ -80,8 +80,8 @@ Make sure you have the following installed:
 ---
 
 ### 2️⃣ Clone the Repository
-git clone https://github.com/govind3/BOOKXPERT-task.git
-cd BOOKXPERT-task
+-- git clone https://github.com/govind3/BOOKXPERT-task.git
+-- cd BOOKXPERT-task
 
 
 ###3️⃣ Install Dependencies
