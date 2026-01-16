@@ -91,7 +91,7 @@ Make sure you have the following installed:
 
 
 4️⃣ Start the Application
--npm run dev
+- npm run dev
 
 
 5️⃣ Open in Browser
