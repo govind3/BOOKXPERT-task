@@ -83,19 +83,17 @@ Make sure you have the following installed:
 
 - git clone https://github.com/govind3/BOOKXPERT-task.git
 - cd BOOKXPERT-task
-- Inactive Employees
-- Clean and responsive layout
 
 
 
 3️⃣ Install Dependencies
--- npm install
+- npm install
 
 
 4️⃣ Start the Application
-npm run dev
+-npm run dev
 
 
 5️⃣ Open in Browser
---- http://localhost:3000
+- http://localhost:3000
 
