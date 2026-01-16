@@ -68,3 +68,30 @@ This project uses **mock authentication** and **SampleData** to simulate real-wo
 - **Yup** (form validation)
 - **Tailwind CSS**
 - **SampleData** (data persistence)
+
+
+## ▶️ Steps to Run the Project Locally
+
+### 1️⃣ Prerequisites
+Make sure you have the following installed:
+- Node.js (v16 or above)
+- npm 
+
+---
+
+### 2️⃣ Clone the Repository
+git clone https://github.com/govind3/BOOKXPERT-task.git
+cd BOOKXPERT-task
+
+
+###3️⃣ Install Dependencies
+-- npm install
+
+
+###4️⃣ Start the Application
+npm run dev
+
+
+###5️⃣ Open in Browser
+--- http://localhost:3000
+
